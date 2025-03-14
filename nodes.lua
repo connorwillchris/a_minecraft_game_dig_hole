@@ -4,5 +4,3 @@ core.register_node("vintagetest:node_wood", {
     tiles = { "node_wood.png" },
     groups = { crumbly = 3 },
 })
-
-core.register_node

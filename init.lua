@@ -1,5 +1,5 @@
 --[[
-VINTAGE TEST
+    A minecraft-like game about digging a hole.
 ]]
 
 -- nodes.lua
